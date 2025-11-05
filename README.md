@@ -43,6 +43,6 @@ A comprehensive full-stack application built with React frontend and Python Fast
 - **Pydantic** - Data validation
 - **Uvicorn** - ASGI server
 - **SQLite/PostgreSQL** - Database support
-- **Alembic** - Database migrations
 
-ities!
+
+
