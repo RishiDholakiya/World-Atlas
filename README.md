@@ -20,10 +20,7 @@ A comprehensive full-stack application built with React frontend and Python Fast
 - **SQLAlchemy ORM** for database operations
 - **Comprehensive CRUD** operations
 - **Advanced Search & Filtering** capabilities
-- **Automatic API Documentation** with Swagger UI
-- **CORS Support** for frontend integration
 - **Data Validation** with Pydantic models
-- **Database Seeding** with sample data
 
 ## 🚀 Tech Stack
 
